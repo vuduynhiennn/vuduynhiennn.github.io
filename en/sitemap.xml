@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://vuduynhien.com/about/</loc>
+    <lastmod>2023-02-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://vuduynhien.com/vi/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vuduynhien.com/about/"
+                />
+  </url><url>
     <loc>https://vuduynhien.com/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -140,19 +153,6 @@
   </url><url>
     <loc>https://vuduynhien.com/post/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vuduynhien.com/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://vuduynhien.com/vi/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://vuduynhien.com/about/"
-                />
   </url><url>
     <loc>https://vuduynhien.com/tags/index/</loc>
   </url><url>
