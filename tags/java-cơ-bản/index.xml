@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Vu Duy Nhien Blog</title>
-    <link>https://vuduynhien.com/post/pbasic/jvbs/</link>
-    <description>Recent content on Vu Duy Nhien Blog</description>
+    <title>Java cơ bản on Vu Duy Nhien Blog</title>
+    <link>https://vuduynhien.com/tags/java-c%C6%A1-b%E1%BA%A3n/</link>
+    <description>Recent content in Java cơ bản on Vu Duy Nhien Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://vuduynhien.com/post/pbasic/jvbs/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://vuduynhien.com/tags/java-c%C6%A1-b%E1%BA%A3n/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Làm tí lập trình Java không bạn</title>
       <link>https://vuduynhien.com/post/pbasic/jvbs/hello/</link>
