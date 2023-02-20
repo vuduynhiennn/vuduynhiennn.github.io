@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://vuduynhien.com/</loc>
+    <lastmod>2023-02-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://vuduynhien.com/vi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vuduynhien.com/"
+                />
+  </url><url>
     <loc>https://vuduynhien.com/about/</loc>
     <lastmod>2023-02-20T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -15,56 +28,14 @@
                 href="https://vuduynhien.com/about/"
                 />
   </url><url>
-    <loc>https://vuduynhien.com/</loc>
-    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://vuduynhien.com/vi/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://vuduynhien.com/"
-                />
-  </url><url>
-    <loc>https://vuduynhien.com/categories/</loc>
-    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://vuduynhien.com/vi/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://vuduynhien.com/categories/"
-                />
-  </url><url>
-    <loc>https://vuduynhien.com/tags/hugo/</loc>
-    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
+    <loc>https://vuduynhien.com/post/emoji-support/</loc>
+    <lastmod>2023-02-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vuduynhien.com/post/</loc>
-    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vuduynhien.com/series/</loc>
-    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://vuduynhien.com/vi/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://vuduynhien.com/series/"
-                />
-  </url><url>
-    <loc>https://vuduynhien.com/categories/syntax/</loc>
-    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vuduynhien.com/tags/</loc>
-    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -76,86 +47,36 @@
                 href="https://vuduynhien.com/tags/"
                 />
   </url><url>
-    <loc>https://vuduynhien.com/series/themes-guide/</loc>
-    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vuduynhien.com/post/bundle/</loc>
-    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vuduynhien.com/post/map/</loc>
-    <lastmod>2022-02-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vuduynhien.com/post/notices/</loc>
-    <lastmod>2021-08-20T00:00:00+00:00</lastmod>
+    <loc>https://vuduynhien.com/tags/t%C3%A2m-h%E1%BB%B1/</loc>
+    <lastmod>2023-02-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vuduynhien.com/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://vuduynhien.com/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vuduynhien.com/tags/destacado/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vuduynhien.com/tags/featured/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vuduynhien.com/post/markdown-syntax.pt/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vuduynhien.com/series/guia-de-temas/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vuduynhien.com/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vuduynhien.com/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vuduynhien.com/post/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vuduynhien.com/categories/sintaxe/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vuduynhien.com/tags/temas/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vuduynhien.com/categories/temas/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vuduynhien.com/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vuduynhien.com/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vuduynhien.com/tags/privacy/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vuduynhien.com/post/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vuduynhien.com/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vuduynhien.com/post/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vuduynhien.com/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vuduynhien.com/post/math-typesetting/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vuduynhien.com/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vuduynhien.com/post/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vuduynhien.com/tags/index/</loc>
+    <loc>https://vuduynhien.com/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://vuduynhien.com/vi/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vuduynhien.com/categories/"
+                />
   </url><url>
     <loc>https://vuduynhien.com/search/</loc>
+  </url><url>
+    <loc>https://vuduynhien.com/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://vuduynhien.com/vi/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vuduynhien.com/series/"
+                />
   </url>
 </urlset>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Vu Duy Nhien Blog</title>
-    <link>https://vuduynhien.com/post/</link>
-    <description>Recent content in Posts on Vu Duy Nhien Blog</description>
+    <title>tâm hự on Vu Duy Nhien Blog</title>
+    <link>https://vuduynhien.com/tags/t%C3%A2m-h%E1%BB%B1/</link>
+    <description>Recent content in tâm hự on Vu Duy Nhien Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://vuduynhien.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://vuduynhien.com/tags/t%C3%A2m-h%E1%BB%B1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Không biết viết gì</title>
       <link>https://vuduynhien.com/post/emoji-support/</link>
