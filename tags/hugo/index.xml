@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Vu Duy Nhien Blog</title>
+    <link>https://sage-daifuku-c39225.netlify.app/tags/hugo/</link>
+    <description>Recent content in Hugo on Vu Duy Nhien Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sage-daifuku-c39225.netlify.app/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using Hugo page bundles</title>
+      <link>https://sage-daifuku-c39225.netlify.app/post/bundle/</link>
+      <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sage-daifuku-c39225.netlify.app/post/bundle/</guid>
+      <description>
+        
+          
+            Page bundles are an optional way to organize page resources within Hugo. You can opt-in to using page bundles in Hugo Clarity with `usePageBundles` in your site configuration --- or in a page&#39;s front matter.
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
