@@ -15,26 +15,10 @@
                 href="https://vuduynhien.com/"
                 />
   </url><url>
-    <loc>https://vuduynhien.com/about/</loc>
-    <lastmod>2023-02-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://vuduynhien.com/vi/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://vuduynhien.com/about/"
-                />
-  </url><url>
     <loc>https://vuduynhien.com/tags/c%C6%A1-b%E1%BA%A3n/</loc>
     <lastmod>2023-02-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vuduynhien.com/tags/java-c%C6%A1-b%E1%BA%A3n/</loc>
-    <lastmod>2023-02-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vuduynhien.com/post/emoji-support/</loc>
     <lastmod>2023-02-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vuduynhien.com/post/pbasic/cbs/hello/</loc>
@@ -42,19 +26,6 @@
   </url><url>
     <loc>https://vuduynhien.com/post/pbasic/jvbs/hello/</loc>
     <lastmod>2023-02-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vuduynhien.com/post/</loc>
-    <lastmod>2023-02-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://vuduynhien.com/vi/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://vuduynhien.com/post/"
-                />
   </url><url>
     <loc>https://vuduynhien.com/tags/</loc>
     <lastmod>2023-02-20T00:00:00+00:00</lastmod>
@@ -69,8 +40,18 @@
                 href="https://vuduynhien.com/tags/"
                 />
   </url><url>
-    <loc>https://vuduynhien.com/tags/t%C3%A2m-h%E1%BB%B1/</loc>
+    <loc>https://vuduynhien.com/about/</loc>
     <lastmod>2023-02-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://vuduynhien.com/vi/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vuduynhien.com/about/"
+                />
   </url><url>
     <loc>https://vuduynhien.com/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
@@ -89,6 +70,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://vuduynhien.com/categories/"
+                />
+  </url><url>
+    <loc>https://vuduynhien.com/post/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://vuduynhien.com/vi/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vuduynhien.com/post/"
                 />
   </url><url>
     <loc>https://vuduynhien.com/search/</loc>
