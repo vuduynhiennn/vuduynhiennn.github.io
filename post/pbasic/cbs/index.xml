@@ -2,29 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vu Duy Nhien Blog</title>
-    <link>https://vuduynhien.com/</link>
+    <link>https://vuduynhien.com/post/pbasic/cbs/</link>
     <description>Recent content on Vu Duy Nhien Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 20 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://vuduynhien.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Không biết viết gì</title>
-      <link>https://vuduynhien.com/post/emoji-support/</link>
-      <pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://vuduynhien.com/post/emoji-support/</guid>
-      <description>
-        
-          
-            Ngày nhỏ muốn code này code kia
-Lớn lên biết code, đéo biết code cái con mẹ gì cạ
-Cay.
-          
-          
-        
-      </description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://vuduynhien.com/post/pbasic/cbs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Làm tí lập trình C không bạn</title>
       <link>https://vuduynhien.com/post/pbasic/cbs/hello/</link>

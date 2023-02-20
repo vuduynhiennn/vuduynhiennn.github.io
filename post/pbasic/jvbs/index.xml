@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vu Duy Nhien Blog</title>
+    <link>https://vuduynhien.com/post/pbasic/jvbs/</link>
+    <description>Recent content on Vu Duy Nhien Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://vuduynhien.com/post/pbasic/jvbs/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
