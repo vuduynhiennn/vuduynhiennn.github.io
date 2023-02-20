@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>destacado on Vu Duy Nhien Blog</title>
-    <link>https://sage-daifuku-c39225.netlify.app/tags/destacado/</link>
+    <link>https://vuduynhien.com/tags/destacado/</link>
     <description>Recent content in destacado on Vu Duy Nhien Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://sage-daifuku-c39225.netlify.app/tags/destacado/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://vuduynhien.com/tags/destacado/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Guia de Sintaxe Markdown</title>
-      <link>https://sage-daifuku-c39225.netlify.app/post/markdown-syntax.pt/</link>
+      <link>https://vuduynhien.com/post/markdown-syntax.pt/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://sage-daifuku-c39225.netlify.app/post/markdown-syntax.pt/</guid>
+      <guid>https://vuduynhien.com/post/markdown-syntax.pt/</guid>
       <description>
         
           
             &lt;p&gt;&lt;strong&gt;Este artigo oferece um exemplo básico de uma tradução em Português. O restante conteúdo não foi traduzido.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Artigo original: https://sage-daifuku-c39225.netlify.app/post/markdown-syntax/&lt;/p&gt;
+&lt;p&gt;Artigo original: https://vuduynhien.com/post/markdown-syntax/&lt;/p&gt;
 &lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
           
           

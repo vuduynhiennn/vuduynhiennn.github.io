@@ -2,65 +2,65 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sage-daifuku-c39225.netlify.app/vi/about/</loc>
+    <loc>https://vuduynhien.com/vi/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sage-daifuku-c39225.netlify.app/about/"
+                href="https://vuduynhien.com/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://sage-daifuku-c39225.netlify.app/vi/about/"
+                href="https://vuduynhien.com/vi/about/"
                 />
   </url><url>
-    <loc>https://sage-daifuku-c39225.netlify.app/vi/categories/</loc>
+    <loc>https://vuduynhien.com/vi/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sage-daifuku-c39225.netlify.app/categories/"
+                href="https://vuduynhien.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://sage-daifuku-c39225.netlify.app/vi/categories/"
+                href="https://vuduynhien.com/vi/categories/"
                 />
   </url><url>
-    <loc>https://sage-daifuku-c39225.netlify.app/vi/series/</loc>
+    <loc>https://vuduynhien.com/vi/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sage-daifuku-c39225.netlify.app/series/"
+                href="https://vuduynhien.com/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://sage-daifuku-c39225.netlify.app/vi/series/"
+                href="https://vuduynhien.com/vi/series/"
                 />
   </url><url>
-    <loc>https://sage-daifuku-c39225.netlify.app/vi/tags/</loc>
+    <loc>https://vuduynhien.com/vi/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sage-daifuku-c39225.netlify.app/tags/"
+                href="https://vuduynhien.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://sage-daifuku-c39225.netlify.app/vi/tags/"
+                href="https://vuduynhien.com/vi/tags/"
                 />
   </url><url>
-    <loc>https://sage-daifuku-c39225.netlify.app/vi/</loc>
+    <loc>https://vuduynhien.com/vi/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sage-daifuku-c39225.netlify.app/"
+                href="https://vuduynhien.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://sage-daifuku-c39225.netlify.app/vi/"
+                href="https://vuduynhien.com/vi/"
                 />
   </url>
 </urlset>
