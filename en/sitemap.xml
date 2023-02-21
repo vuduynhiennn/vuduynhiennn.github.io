@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://vuduynhien.com/</loc>
-    <lastmod>2023-02-20T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -15,26 +15,49 @@
                 href="https://vuduynhien.com/"
                 />
   </url><url>
-    <loc>https://vuduynhien.com/tags/c%C6%A1-b%E1%BA%A3n/</loc>
-    <lastmod>2023-02-20T00:00:00+00:00</lastmod>
+    <loc>https://vuduynhien.com/tags/c-c%C6%A1-b%E1%BA%A3n/</loc>
+    <lastmod>2023-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://vuduynhien.com/tags/java-c%C6%A1-b%E1%BA%A3n/</loc>
-    <lastmod>2023-02-20T00:00:00+00:00</lastmod>
+    <loc>https://vuduynhien.com/categories/c-c%C6%A1-b%E1%BA%A3n/</loc>
+    <lastmod>2023-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://vuduynhien.com/post/pbasic/cbs/hello/</loc>
-    <lastmod>2023-02-20T00:00:00+00:00</lastmod>
+    <loc>https://vuduynhien.com/categories/</loc>
+    <lastmod>2023-02-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://vuduynhien.com/vi/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vuduynhien.com/categories/"
+                />
   </url><url>
-    <loc>https://vuduynhien.com/post/pbasic/jvbs/hello/</loc>
-    <lastmod>2023-02-20T00:00:00+00:00</lastmod>
+    <loc>https://vuduynhien.com/post/pbasic/cbs/logicalexpression/</loc>
+    <lastmod>2023-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://vuduynhien.com/post/pbasic/cbs/note/</loc>
-    <lastmod>2023-02-20T00:00:00+00:00</lastmod>
+    <loc>https://vuduynhien.com/series/l%E1%BA%ADp-tr%C3%ACnh-c/</loc>
+    <lastmod>2023-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://vuduynhien.com/tags/note_c/</loc>
-    <lastmod>2023-02-20T00:00:00+00:00</lastmod>
+    <loc>https://vuduynhien.com/categories/n%E1%BB%81n-t%E1%BA%A3ng/</loc>
+    <lastmod>2023-02-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vuduynhien.com/series/</loc>
+    <lastmod>2023-02-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://vuduynhien.com/vi/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vuduynhien.com/series/"
+                />
   </url><url>
     <loc>https://vuduynhien.com/tags/</loc>
-    <lastmod>2023-02-20T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -45,6 +68,12 @@
                 hreflang="en"
                 href="https://vuduynhien.com/tags/"
                 />
+  </url><url>
+    <loc>https://vuduynhien.com/post/pbasic/cbs/note/</loc>
+    <lastmod>2023-02-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vuduynhien.com/tags/note_c/</loc>
+    <lastmod>2023-02-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vuduynhien.com/about/</loc>
     <lastmod>2023-02-20T00:00:00+00:00</lastmod>
@@ -63,18 +92,6 @@
   </url><url>
     <loc>https://vuduynhien.com/post/pbasic/jvbs/</loc>
   </url><url>
-    <loc>https://vuduynhien.com/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://vuduynhien.com/vi/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://vuduynhien.com/categories/"
-                />
-  </url><url>
     <loc>https://vuduynhien.com/post/</loc>
     <xhtml:link
                 rel="alternate"
@@ -88,17 +105,5 @@
                 />
   </url><url>
     <loc>https://vuduynhien.com/search/</loc>
-  </url><url>
-    <loc>https://vuduynhien.com/series/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://vuduynhien.com/vi/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://vuduynhien.com/series/"
-                />
   </url>
 </urlset>

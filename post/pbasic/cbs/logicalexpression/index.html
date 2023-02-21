@@ -4,10 +4,12 @@
   lang="en"
   data-figures=""
   
+    class="page"
+  
   
   >
   <head>
-<title>Vu Duy Nhien Blog</title>
+<title>Logical Operators và Bitwise Logical Operators là gì ? chúng khác như thế nào ?  | Vu Duy Nhien Blog</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -20,23 +22,21 @@
 <meta property="og:locale" content="en" />
 
 <meta property="og:type" content="article">
-<meta name="description" content="Vũ Duy Nhiên Blog" />
+<meta name="description" content="Đây là phần kiến thức cơ bản nhưng khá quan trọng cho người mới bắt đầu tìm hiểu về lập trình, cùng mình tìm hiểu về 2 khái niệm này nha." />
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:creator" content="@vuduynhiennn">
-<meta name="twitter:title" content="" />
+<meta name="twitter:title" content="Logical Operators và Bitwise Logical Operators là gì ? chúng khác như thế nào ? " />
 <meta name="twitter:image" content="https://vuduynhien.com/images/thumbnail.png"/>
-<meta property="og:url" content="https://vuduynhien.com/post/pbasic/jvbs/" />
-<meta property="og:title" content="" />
-<meta property="og:description" content="Vũ Duy Nhiên Blog" />
+<meta property="og:url" content="https://vuduynhien.com/post/pbasic/cbs/logicalexpression/" />
+<meta property="og:title" content="Logical Operators và Bitwise Logical Operators là gì ? chúng khác như thế nào ? " />
+<meta property="og:description" content="Đây là phần kiến thức cơ bản nhưng khá quan trọng cho người mới bắt đầu tìm hiểu về lập trình, cùng mình tìm hiểu về 2 khái niệm này nha." />
 <meta property="og:image" content="https://vuduynhien.com/images/thumbnail.png" />
-  <meta name="keywords" content="Vu Duy Nhien,Vũ Duy Nhiên,VuDuyNhien,vuduynhien,Nhien,Duy Nhien,Nhien Duy Vu,Vũ Nhiên,Nhiên,Vũ Duy Nhiên Blog,Nhiên Nhiên" />
 
 <link rel="apple-touch-icon" sizes="180x180" href="https://vuduynhien.com/icons/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://vuduynhien.com/icons/favicon-32x32.png">
 <link rel="manifest" href="https://vuduynhien.com/icons/site.webmanifest">
 
-<link rel="canonical" href="https://vuduynhien.com/post/pbasic/jvbs/">
-<link rel="alternate" type="application/rss+xml" href="https://vuduynhien.com/post/pbasic/jvbs/index.xml" title="Vu Duy Nhien Blog" />
+<link rel="canonical" href="https://vuduynhien.com/post/pbasic/cbs/logicalexpression/">
 
 
 
@@ -132,16 +132,125 @@
 </header>
 
     <main>
-
-
-
+  
 <div class="grid-inverse wrap content">
-  <div>
-    <ul class="posts" id="posts">
-      <li>
-      </li>
-    </ul>
+  <article class="post_content">
+    <h1 class="post_title">Logical Operators và Bitwise Logical Operators là gì ? chúng khác như thế nào ?</h1>
+  <div class="post_meta">
+    <span><svg class="icon">
+  <title>calendar</title>
+  <use xlink:href="#calendar"></use>
+</svg>
+</span>
+    <span class="post_date">
+      Feb 21, 2023</span>
+    <span class="post_time"> · 5 min read</span><span>&nbsp;· <a href='https://vuduynhien.com/tags/c-c%C6%A1-b%E1%BA%A3n/' title="C cơ bản" class="post_tag button button_translucent">C cơ bản
+        </a>
+    </span>
+    <span class="page_only">&nbsp;·
+  <div class="post_share">
+    Share on:
+    <a href="https://twitter.com/intent/tweet?text=Logical%20Operators%20v%c3%a0%20Bitwise%20Logical%20Operators%20l%c3%a0%20g%c3%ac%20%3f%20ch%c3%bang%20kh%c3%a1c%20nh%c6%b0%20th%e1%ba%bf%20n%c3%a0o%20%3f%20&url=https%3a%2f%2fvuduynhien.com%2fpost%2fpbasic%2fcbs%2flogicalexpression%2f&tw_p=tweetbutton" class="twitter" title="Share on Twitter" target="_blank" rel="nofollow">
+      <svg class="icon">
+  <title>twitter</title>
+  <use xlink:href="#twitter"></use>
+</svg>
+
+    </a>
+    <a href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fvuduynhien.com%2fpost%2fpbasic%2fcbs%2flogicalexpression%2f&t=Logical%20Operators%20v%c3%a0%20Bitwise%20Logical%20Operators%20l%c3%a0%20g%c3%ac%20%3f%20ch%c3%bang%20kh%c3%a1c%20nh%c6%b0%20th%e1%ba%bf%20n%c3%a0o%20%3f%20" class="facebook" title="Share on Facebook" target="_blank" rel="nofollow">
+      <svg class="icon">
+  <title>facebook</title>
+  <use xlink:href="#facebook"></use>
+</svg>
+
+    </a>
+    <a href="#linkedinshare" id = "linkedinshare" class="linkedin" title="Share on LinkedIn" rel="nofollow">
+      <svg class="icon">
+  <title>linkedin</title>
+  <use xlink:href="#linkedin"></use>
+</svg>
+
+    </a>
+    <a href="https://vuduynhien.com/post/pbasic/cbs/logicalexpression/" title="Copy Link" class="link link_yank">
+      <svg class="icon">
+  <title>copy</title>
+  <use xlink:href="#copy"></use>
+</svg>
+
+    </a>
   </div>
+  </span>
+  </div>
+
+    <div class="post_body"><p>cùng mình tìm hiểu về 2 khái niệm này nha.</p>
+<h1 id="1-logical-operators">1. Logical Operators</h1>
+<p>Hay còn được gọi với cái tên <strong>toán tử logic</strong>. Lưu ý: trong C hay hầu hết các ngôn ngữ lập trình khác thì bất kể biểu thức nào có kết quả khác 0 sẽ được convert thành true, ngược lại biểu thức nào có kết quả là 0 sẽ được convert thành false. Đọc nhẩm câu này rồi hãng đọc xuống phía dưới nhé.</p>
+<p>I. <strong>Toán tử &amp;&amp;</strong></p>
+<p>Hay còn gọi là &quot;và&quot;, toán tử &amp;&amp; sẽ kiểm tra nếu cả 2 biểu thức đều có kết quả là true sẽ trả về true. Còn nếu biểu thức thứ nhất là false thì biểu thức thứ 2 sẽ không được kiểm tra nữa. Hiểu đơn giản là toán tử &amp;&amp; sẽ kiểm tra từ trái sang phải, nếu nó phát hiện biểu thức nào sai sẽ trả về false luôn, còn nếu chạy từ đầu đến cuối không phát hiện cái nào sai thì biểu thức trả về true</p>
+<p><code>if ((5 == 5) &amp;&amp; (7 == 10 &amp;&amp; 6 == 6)) printf(&quot;sai rui bro&quot;) </code></p>
+<p>II. <strong>Toán tử ||</strong></p>
+<p>Hay còn gọi là &quot;hoặc&quot;, toán tử || sẽ kiểm tra nếu ít nhất một trong 2 biểu thức có kết quả là true thì sẽ trả về true. Nếu biểu thức đầu tiên là true thì sẽ trả về true luôn khỏi kiểm tra nữa. Hiểu đơn giản là toán tử || sẽ kiểm tra từ trái qua phải, nếu nó phát hiện biểu thức nào true thì trả về true luôn, khỏi kiểm tra các thằng tiếp theo, còn nếu chạy từ đầu đến cuối không phát hiện ra thằng nào true cả thì biểu thức trả về false.</p>
+<p><code>if ((4 == 5 || 2 == 4 || 6 == 6 || 1 == 2)) printf(&quot;oki dung nha nguoi ae&quot;)</code></p>
+<p><strong>NOTE:</strong>
+<em>bạn có thể thêm ! đằng trước biểu thức để tìm giá trị đối lập</em></p>
+<p><code>if (! (4 == 5))</code> sẽ trả về true, vì 4 == 5 là false nhưng ! đã trả về kết quả trái ngược false là true. Sau khi biết kiến thức này bạn có thể nói với bạn gái của bạn là: <code>! (em là cô gái xinh đẹp nhất trên cái cuộc đời này)</code>.</p>
+<p>Bởi vì sau khi nhận được kết quả trả về, biểu thức logical sẽ không xét các biểu thức phía bên phải biểu thức đúng thế nên nếu có ý định thực hiện điều gì bạn nên viết ra bên ngoài của biểu thức logic</p>
+<p><code>if (0 &amp;&amp; x++) bar()</code> hàm bar() sẽ không được gọi và x cũng sẽ không được tăng lên, nếu mà bạn có ý định tăng giá trị của x lên thì nên viết ra bên ngoài của biểu thức logical</p>
+<p><code>if (1 &amp;&amp; x++) bar()</code> hàm bar() sẽ được gọi và x cũng sẽ được tăng lên.</p>
+<p><code>if (1 &amp;&amp; x++ &amp;&amp; 1 == 3) bar()</code> hàm bar() sẽ không được gọi do kết quả của biểu thức logic trả về false, nhưng x vẫn được tăng lên 1 giá trị do biểu thức đã thực thi xong x++ mới thực thi đến biểu thức sai. \</p>
+<h1 id="2-bitwise-logical-operators">2 BITWISE Logical Operators</h1>
+<p>Hay còn gọi là <strong>phép toán thao tác bit</strong>.</p>
+<p>Bit là các chữ số mang trạng thái tắt hoặc mở hay 0 và 1 trong máy tính. Khi các chữ số này được kết hợp với nhau sẽ ra 1 dãy nhị phân. Các bạn tìm hiểu về cách chuyển đổi giữa các hệ trong máy tính nha, cái này hồi cấp 2, thpt có học rồi á.</p>
+<p>Ví dụ A = 0B10111001. thì chuyển sang thập phân sẽ là
+<code>2 ^ 7 * 1 + 2 ^ 6 * 0 + 2 ^ 5 * 1 + 2 ^ 4 * 1 + 2 ^ 3 * 1 * 2 ^ 2 * 0 + 2 ^ 1 * 0 + 2 ^ 0 *1 = 185</code> :))) nhìn dài quá có thể mình viết nhầm cơ mà ý là các bạn xếp các chữ số 0 và 1 thành 1 hàng rồi đánh số thức tự giảm dần cho đến 0. Sau đó thực hiện cộng các phép toán là 2 ^ (vị trí của chữ số 0 hoặc 1) * (chữ số 0 hoặc 1)</p>
+<p>I. <strong>Phép toán &amp;</strong></p>
+<p>Hay còn gọi là AND</p>
+<p>0 and 0 = 0</p>
+<p>1 and 0 = 0</p>
+<p>0 and 1 = 0</p>
+<p>1 and 1 = 1</p>
+<p>Ngồi suy luận đi ha. :)) thôi giải thích cho: khi cả 2 bit đều là 1 thì là 1 còn lại 0, nói kiểu bình thường thì là nếu cả 2 điều kiện cùng đúng thì nó đúng và còn lại là sai.</p>
+<p>ví dụ <code>11001001 &amp; 10011011</code> = 10001001</p>
+<p>II. <strong>Phép toán |</strong></p>
+<p>Hay còn gọi là OR</p>
+<p>0 | 0 = 0</p>
+<p>1 | 0 = 1</p>
+<p>0 | 1 = 1</p>
+<p>1 | 1 = 1</p>
+<p>khi cả 2 bit đều là 0 thì là 0 còn lại là 1, nói kiểu nỏmie là khi chỉ cần ít nhất 1 điều kiện là 1 thì biểu thức đúng</p>
+<p>ví dụ <code>1 0 1 1 0 0 1 | 0 0 1 1 0 0 1 1</code> = 1 0 1 1 1 0 0 1 1</p>
+<p>III. <strong>Phép toán ^</strong></p>
+<p>Hay còn gọi là XOR</p>
+<p>0 ^ 0 = 0</p>
+<p>1 ^ 1 = 0</p>
+<p>0 ^ 1 = 1</p>
+<p>1 ^ 0 = 1</p>
+<p>Nếu cả 2 bit khác nhau sẽ cho ra kết quả là 1, ngược lại cả 2 bit giống nhau sẽ cho ra kết quả 0. Từ đó ta thấy nếu A XOR B = 0 thì A == B. Nói kiểu bình thường: nếu 2 điều kiện mang giá trị đúng - sai khác nhau thì kết quả trả về đúng.</p>
+<p>IV. <strong>Phép toán ~</strong></p>
+<p>Hay còn gọi là phép toán NOT</p>
+<p>tức là</p>
+<p>~ 0 = 1</p>
+<p>~ 1 = 0</p>
+<p><code>~11001001 = 00110110</code></p>
+<p>=&gt; <strong>Như vậy sau khi đọc hết bài viết bạn có thể nhận ra là bitwise operators để thao tác bit còn logical operator là phép toán thao tác giữa các biểu thức.</strong></p>
+
+    </div>
+
+	<h2 class="post_related">Posts in this Series</h2>
+	<ul>
+	  
+	</ul>
+
+<div class="post_comments">
+  
+  
+  
+</div>
+
+
+
+
+  </article>
 <aside class="sidebar">
   <section class="sidebar_inner">
     <br>
@@ -169,6 +278,12 @@
       <a href='https://vuduynhien.com/about/' class="button mt-1" role="button" title='Read More'>Read More</a>
 
     
+    
+      
+	    <h2 class="mt-4">Posts in this series</h2>
+      <ul>
+        
+      </ul>
     
     <h2 class="mt-4">Recent Posts</h2>
     <ul class="flex-column">
@@ -225,9 +340,8 @@
   </section>
 </aside>
 
+  
 </div>
-
-
     </main><svg width="0" height="0" class="hidden">
   <symbol viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" id="facebook">
     <path d="M437 0H75C33.648 0 0 33.648 0 75v362c0 41.352 33.648 75 75 75h151V331h-60v-90h60v-61c0-49.629 40.371-90 90-90h91v90h-91v61h91l-15 90h-76v181h121c41.352 0 75-33.648 75-75V75c0-41.352-33.648-75-75-75zm0 0"></path>

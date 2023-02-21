@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Vu Duy Nhien Blog</title>
-    <link>https://vuduynhien.com/</link>
-    <description>Recent content on Vu Duy Nhien Blog</description>
+    <title>Lập trình C on Vu Duy Nhien Blog</title>
+    <link>https://vuduynhien.com/series/l%E1%BA%ADp-tr%C3%ACnh-c/</link>
+    <description>Recent content in Lập trình C on Vu Duy Nhien Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://vuduynhien.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://vuduynhien.com/series/l%E1%BA%ADp-tr%C3%ACnh-c/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Logical Operators và Bitwise Logical Operators là gì ? chúng khác như thế nào ? </title>
       <link>https://vuduynhien.com/post/pbasic/cbs/logicalexpression/</link>
