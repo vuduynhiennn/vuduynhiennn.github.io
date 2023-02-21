@@ -6,8 +6,8 @@
     <lastmod>2023-02-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="vi"
-                href="https://vuduynhien.com/vi/"
+                hreflang="kt"
+                href="https://vuduynhien.com/kt/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -25,8 +25,8 @@
     <lastmod>2023-02-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="vi"
-                href="https://vuduynhien.com/vi/categories/"
+                hreflang="kt"
+                href="https://vuduynhien.com/kt/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -47,8 +47,8 @@
     <lastmod>2023-02-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="vi"
-                href="https://vuduynhien.com/vi/series/"
+                hreflang="kt"
+                href="https://vuduynhien.com/kt/series/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -60,8 +60,8 @@
     <lastmod>2023-02-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="vi"
-                href="https://vuduynhien.com/vi/tags/"
+                hreflang="kt"
+                href="https://vuduynhien.com/kt/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -77,16 +77,9 @@
   </url><url>
     <loc>https://vuduynhien.com/about/</loc>
     <lastmod>2023-02-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://vuduynhien.com/vi/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://vuduynhien.com/about/"
-                />
+  </url><url>
+    <loc>https://vuduynhien.com/about.vi/</loc>
+    <lastmod>2023-02-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vuduynhien.com/post/pbasic/cbs/</loc>
   </url><url>
@@ -95,8 +88,8 @@
     <loc>https://vuduynhien.com/post/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="vi"
-                href="https://vuduynhien.com/vi/post/"
+                hreflang="kt"
+                href="https://vuduynhien.com/kt/post/"
                 />
     <xhtml:link
                 rel="alternate"
