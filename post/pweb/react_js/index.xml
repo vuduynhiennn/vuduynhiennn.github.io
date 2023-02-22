@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vu Duy Nhien Blog</title>
+    <link>https://vuduynhien.com/post/pweb/react_js/</link>
+    <description>Recent content on Vu Duy Nhien Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://vuduynhien.com/post/pweb/react_js/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hướng dẫn về redux và redux toolkit.</title>
+      <link>https://vuduynhien.com/post/pweb/react_js/redux/</link>
+      <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://vuduynhien.com/post/pweb/react_js/redux/</guid>
+      <description>
+        
+          
+            REDUX LÀ GÌ ? Redux là khuôn mẫu, là thư viện cho việc quản lí, cập nhật các state trong web app thông qua việc sử dụng các sự kiện hay còn được gọi là &amp;quot;actions&amp;quot;. Redux giúp tập trung hóa trong việc lưu trữ các state mà được sử dụng xuyên suốt toàn bộ web app, state chỉ thay đổi trong 1 hành vi chủ ý, có thể dự đoán được điều gì sẽ xảy ra và xảy ra như thế nào với các state.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Lifting state up</title>
+      <link>https://vuduynhien.com/post/pweb/react_js/lifting_state_up/</link>
+      <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://vuduynhien.com/post/pweb/react_js/lifting_state_up/</guid>
+      <description>
+        
+          
+            Đôi khi bạn muốn state của 2 component cùng thay đổi. Để làm điều này, thì xóa state từ 2 component đó đi, sau đó chuyển cái state sang component cha gần nhất giữa 2 component, rồi pass state thông qua props. điều này gọi là lifting state up đó anh bạn, đây là sẽ điều bạn sẽ chơi thường xuyên khi code react js          import { useState } from &#39;react&#39;; function Panel({ title, children }) { const [isActive, setIsActive] = useState(false); return ( &amp;lt;section className=&amp;quot;panel&amp;quot;&amp;gt; &amp;lt;h3&amp;gt;{title}&amp;lt;/h3&amp;gt; {isActive ?
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
