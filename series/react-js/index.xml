@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Vu Duy Nhien Blog</title>
-    <link>https://vuduynhien.com/</link>
-    <description>Recent content on Vu Duy Nhien Blog</description>
+    <title>React js on Vu Duy Nhien Blog</title>
+    <link>https://vuduynhien.com/series/react-js/</link>
+    <description>Recent content in React js on Vu Duy Nhien Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://vuduynhien.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://vuduynhien.com/series/react-js/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hướng dẫn về redux và redux toolkit.</title>
       <link>https://vuduynhien.com/post/pweb/react_js/redux/</link>
@@ -33,39 +33,6 @@
         
           
             Đôi khi bạn muốn state của 2 component cùng thay đổi. Để làm điều này, thì xóa state từ 2 component đó đi, sau đó chuyển cái state sang component cha gần nhất giữa 2 component, rồi pass state thông qua props. điều này gọi là lifting state up đó anh bạn, đây là sẽ điều bạn sẽ chơi thường xuyên khi code react js          import { useState } from &#39;react&#39;; function Panel({ title, children }) { const [isActive, setIsActive] = useState(false); return ( &amp;lt;section className=&amp;quot;panel&amp;quot;&amp;gt; &amp;lt;h3&amp;gt;{title}&amp;lt;/h3&amp;gt; {isActive ?
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Logical Operators và Bitwise Logical Operators là gì ? chúng khác như thế nào ? </title>
-      <link>https://vuduynhien.com/post/pbasic/cbs/logicalexpression/</link>
-      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://vuduynhien.com/post/pbasic/cbs/logicalexpression/</guid>
-      <description>
-        
-          
-            cùng mình tìm hiểu về 2 khái niệm này nha.
-1. Logical Operators Hay còn được gọi với cái tên toán tử logic. Lưu ý: trong C hay hầu hết các ngôn ngữ lập trình khác thì bất kể biểu thức nào có kết quả khác 0 sẽ được convert thành true, ngược lại biểu thức nào có kết quả là 0 sẽ được convert thành false. Đọc nhẩm câu này rồi hãng đọc xuống phía dưới nhé.
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>NOTE</title>
-      <link>https://vuduynhien.com/post/pbasic/cbs/note/</link>
-      <pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://vuduynhien.com/post/pbasic/cbs/note/</guid>
-      <description>
-        
-          
-            để ý đoạn nói về socket ha file description cả cái này nữa
           
           
         
