@@ -147,7 +147,7 @@
 </span>
     <span class="post_date">
       Feb 22, 2023</span>
-    <span class="post_time"> · 7 min read</span><span>&nbsp;· <a href='https://vuduynhien.com/tags/l%E1%BA%ADp-tr%C3%ACnh-web/' title="Lập trình web" class="post_tag button button_translucent">Lập trình web
+    <span class="post_time"> · 8 min read</span><span>&nbsp;· <a href='https://vuduynhien.com/tags/l%E1%BA%ADp-tr%C3%ACnh-web/' title="Lập trình web" class="post_tag button button_translucent">Lập trình web
         </a>
     </span>
     <span class="page_only">&nbsp;·
@@ -337,6 +337,10 @@ return state
 <p>Tại sao gọi là reducer ... xem google</p>
 <p><strong>store</strong></p>
 <p><strong>dispatch</strong></p>
+<h4 id="redux-app-structure---cấu-trúc-ứng-dụng-redux">redux app structure - cấu trúc ứng dụng redux</h4>
+<p>Redux store được tạo bằng cách dùng hàm configureStore từ redux toolkit, configure store yêu cầu chúng ta truyền đối số reducer</p>
+<p>ứng dụng của chúng ta có thể được tạo ra bởi nhiều tính năng, và mỗi tính năng có hàm xử lí riêng. Khi chúng ta gọi hàm configureStore , chúng ta có thể truyền tất cả reducer vào trong một object. Key name ở trong object sẽ định nghĩa bên trong giá trị state</p>
+<p>file name features/counter/counterSlice.js</p>
 
     </div>
 
@@ -377,7 +381,7 @@ return state
           <h2>Vu Duy Nhien</h2>
         </div>
       <div class="author_bio">
-        Technologist, perpetual student, teacher, continual incremental improvement.
+        Trang web này tạo ra do mình muốn ghi lại những gì mình học thôi !
       </div>
       <a href='https://vuduynhien.com/about/' class="button mt-1" role="button" title='Read More'>Read More</a>
 
