@@ -16,9 +16,8 @@
       <description>
         
           
-            Javascript runtime environment
- A javascript runtime is an environment which provides all the necessary components in order to use and run a javascript program. Js code may be executed in one of two runtime enviroments: 
- The runtime environment of a browser (like chrome or firefox)  The Node runtime environment.    &amp;nbsp;  where do js code is executed ?   how it works ?
+            A javascript runtime is an environment which provides all the necessary components 
+Components of JavaScript Runtime     JavaScript Engnine Web API&amp;nbsp;  Callback Queue Microtask Queue       In order to use and run a javascript program.&amp;nbsp; Js code may be executed in one of two runtime enviroments:   The runtime environment of a browser (like chrome or firefox)  The Node runtime environment.
           
           
         
