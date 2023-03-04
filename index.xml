@@ -43,6 +43,26 @@ Components of JavaScript Runtime     JavaScript Engnine Web API&amp;nbsp;  Callb
     </item>
     
     <item>
+      <title>web api là gì ?</title>
+      <link>https://vuduynhien.com/post/javascript/posts/web-api/</link>
+      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://vuduynhien.com/post/javascript/posts/web-api/</guid>
+      <description>
+        
+          
+            API stands for Application Programming Interface
+A WebAPI is an application programming interface for the Web
+A browser API can extend the functionality of a web browser
+A server API can extend the functionality of a web server
+API are constructs made avaible in programming languages to allow developers to create complex functionality more easily. They abstract more complex code away from you, providing some easier syntax to use in its place.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
       <title>Hướng dẫn về redux và redux toolkit.</title>
       <link>https://vuduynhien.com/post/pweb/react_js/redux/</link>
       <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
