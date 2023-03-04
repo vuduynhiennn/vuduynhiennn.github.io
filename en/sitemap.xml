@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://vuduynhien.com/</loc>
-    <lastmod>2023-02-22T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="kt"
@@ -13,6 +13,54 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://vuduynhien.com/"
+                />
+  </url><url>
+    <loc>https://vuduynhien.com/tags/javascript/</loc>
+    <lastmod>2023-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vuduynhien.com/series/javascript/</loc>
+    <lastmod>2023-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vuduynhien.com/post/javascript/js-runtime-la-gi/</loc>
+    <lastmod>2023-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vuduynhien.com/post/</loc>
+    <lastmod>2023-03-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="kt"
+                href="https://vuduynhien.com/kt/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vuduynhien.com/post/"
+                />
+  </url><url>
+    <loc>https://vuduynhien.com/series/</loc>
+    <lastmod>2023-03-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="kt"
+                href="https://vuduynhien.com/kt/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vuduynhien.com/series/"
+                />
+  </url><url>
+    <loc>https://vuduynhien.com/tags/</loc>
+    <lastmod>2023-03-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="kt"
+                href="https://vuduynhien.com/kt/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vuduynhien.com/tags/"
                 />
   </url><url>
     <loc>https://vuduynhien.com/post/pweb/react_js/redux/</loc>
@@ -26,32 +74,6 @@
   </url><url>
     <loc>https://vuduynhien.com/series/react-js/</loc>
     <lastmod>2023-02-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vuduynhien.com/series/</loc>
-    <lastmod>2023-02-22T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="kt"
-                href="https://vuduynhien.com/kt/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://vuduynhien.com/series/"
-                />
-  </url><url>
-    <loc>https://vuduynhien.com/tags/</loc>
-    <lastmod>2023-02-22T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="kt"
-                href="https://vuduynhien.com/kt/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://vuduynhien.com/tags/"
-                />
   </url><url>
     <loc>https://vuduynhien.com/tags/c-c%C6%A1-b%E1%BA%A3n/</loc>
     <lastmod>2023-02-21T00:00:00+00:00</lastmod>
@@ -98,18 +120,6 @@
     <loc>https://vuduynhien.com/post/pbasic/jvbs/</loc>
   </url><url>
     <loc>https://vuduynhien.com/post/pweb/react_js/</loc>
-  </url><url>
-    <loc>https://vuduynhien.com/post/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="kt"
-                href="https://vuduynhien.com/kt/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://vuduynhien.com/post/"
-                />
   </url><url>
     <loc>https://vuduynhien.com/search/</loc>
   </url>
