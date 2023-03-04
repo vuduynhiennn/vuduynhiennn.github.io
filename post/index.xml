@@ -7,22 +7,5 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 04 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://vuduynhien.com/post/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Javascript runtime là gì ?</title>
-      <link>https://vuduynhien.com/post/javascript/js-runtime-la-gi/</link>
-      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://vuduynhien.com/post/javascript/js-runtime-la-gi/</guid>
-      <description>
-        
-          
-            A javascript runtime is an environment which provides all the necessary components 
-Components of JavaScript Runtime     JavaScript Engnine Web API&amp;nbsp;  Callback Queue Microtask Queue       In order to use and run a javascript program.&amp;nbsp; Js code may be executed in one of two runtime enviroments:   The runtime environment of a browser (like chrome or firefox)  The Node runtime environment.
-          
-          
-        
-      </description>
-    </item>
-    
   </channel>
 </rss>
