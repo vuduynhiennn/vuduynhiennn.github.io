@@ -9,7 +9,7 @@
   
   >
   <head>
-<title>Lifting state up | Vu Duy Nhien Blog</title>
+<title>Javascript engine là gì ? | Vu Duy Nhien Blog</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -22,21 +22,21 @@
 <meta property="og:locale" content="en" />
 
 <meta property="og:type" content="article">
-<meta name="description" content="Cùng tìm hiểu về lifting state up nha" />
+<meta name="description" content="javascript engine là gì vậy b" />
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:creator" content="@vuduynhiennn">
-<meta name="twitter:title" content="Lifting state up" />
-<meta name="twitter:image" content="https://beta.reactjs.org/_next/image?url=%2Fimages%2Fdocs%2Fdiagrams%2Fsharing_state_child_clicked.png&w=640&q=75"/>
-<meta property="og:url" content="https://vuduynhien.com/post/pweb/react_js/lifting_state_up/" />
-<meta property="og:title" content="Lifting state up" />
-<meta property="og:description" content="Cùng tìm hiểu về lifting state up nha" />
-<meta property="og:image" content="https://beta.reactjs.org/_next/image?url=%2Fimages%2Fdocs%2Fdiagrams%2Fsharing_state_child_clicked.png&w=640&q=75" />
+<meta name="twitter:title" content="Javascript engine là gì ?" />
+<meta name="twitter:image" content="https://res.cloudinary.com/slawinski-dev/image/upload/v1648757381/javascript-runtime-environment.png"/>
+<meta property="og:url" content="https://vuduynhien.com/post/javascript/posts/js-engine/" />
+<meta property="og:title" content="Javascript engine là gì ?" />
+<meta property="og:description" content="javascript engine là gì vậy b" />
+<meta property="og:image" content="https://res.cloudinary.com/slawinski-dev/image/upload/v1648757381/javascript-runtime-environment.png" />
 
 <link rel="apple-touch-icon" sizes="180x180" href="https://vuduynhien.com/icons/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://vuduynhien.com/icons/favicon-32x32.png">
 <link rel="manifest" href="https://vuduynhien.com/icons/site.webmanifest">
 
-<link rel="canonical" href="https://vuduynhien.com/post/pweb/react_js/lifting_state_up/">
+<link rel="canonical" href="https://vuduynhien.com/post/javascript/posts/js-engine/">
 
 
 
@@ -139,7 +139,7 @@
   
 <div class="grid-inverse wrap content">
   <article class="post_content">
-    <h1 class="post_title">Lifting state up</h1>
+    <h1 class="post_title">Javascript engine là gì ?</h1>
   <div class="post_meta">
     <span><svg class="icon">
   <title>calendar</title>
@@ -147,21 +147,21 @@
 </svg>
 </span>
     <span class="post_date">
-      Feb 22, 2023</span>
-    <span class="post_time"> · 2 min read</span><span>&nbsp;· <a href='https://vuduynhien.com/tags/l%E1%BA%ADp-tr%C3%ACnh-web/' title="Lập trình web" class="post_tag button button_translucent">Lập trình web
+      Mar 4, 2023</span>
+    <span class="post_time"> · 2 min read</span><span>&nbsp;· <a href='https://vuduynhien.com/tags/javascript/' title="javascript" class="post_tag button button_translucent">javascript
         </a>
     </span>
     <span class="page_only">&nbsp;·
   <div class="post_share">
     Share on:
-    <a href="https://twitter.com/intent/tweet?text=Lifting%20state%20up&url=https%3a%2f%2fvuduynhien.com%2fpost%2fpweb%2freact_js%2flifting_state_up%2f&tw_p=tweetbutton" class="twitter" title="Share on Twitter" target="_blank" rel="nofollow">
+    <a href="https://twitter.com/intent/tweet?text=Javascript%20engine%20l%c3%a0%20g%c3%ac%20%3f&url=https%3a%2f%2fvuduynhien.com%2fpost%2fjavascript%2fposts%2fjs-engine%2f&tw_p=tweetbutton" class="twitter" title="Share on Twitter" target="_blank" rel="nofollow">
       <svg class="icon">
   <title>twitter</title>
   <use xlink:href="#twitter"></use>
 </svg>
 
     </a>
-    <a href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fvuduynhien.com%2fpost%2fpweb%2freact_js%2flifting_state_up%2f&t=Lifting%20state%20up" class="facebook" title="Share on Facebook" target="_blank" rel="nofollow">
+    <a href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fvuduynhien.com%2fpost%2fjavascript%2fposts%2fjs-engine%2f&t=Javascript%20engine%20l%c3%a0%20g%c3%ac%20%3f" class="facebook" title="Share on Facebook" target="_blank" rel="nofollow">
       <svg class="icon">
   <title>facebook</title>
   <use xlink:href="#facebook"></use>
@@ -175,7 +175,7 @@
 </svg>
 
     </a>
-    <a href="https://vuduynhien.com/post/pweb/react_js/lifting_state_up/" title="Copy Link" class="link link_yank">
+    <a href="https://vuduynhien.com/post/javascript/posts/js-engine/" title="Copy Link" class="link link_yank">
       <svg class="icon">
   <title>copy</title>
   <use xlink:href="#copy"></use>
@@ -186,169 +186,23 @@
   </span>
   </div>
 
-    <div class="post_body"><ul>
-<li>Đôi khi bạn muốn state của 2 component cùng thay đổi. Để làm điều này, thì xóa state từ 2 component đó đi, sau đó chuyển cái state sang component cha gần nhất giữa 2 component, rồi pass state thông qua props. điều này gọi là lifting state up đó anh bạn, đây là sẽ điều bạn sẽ chơi thường xuyên khi code react js</li>
-</ul>
-<p><figure>
-  <picture>
-
-    
-      
-        
-        
-        
-        
-        
-        
-    <img
-      loading="lazy"
-      decoding="async"
-      alt=""
-      
-        class="image_figure image_external image_processed"
-        width="640"
-        height="489"
-        src="/images/sharing_state_child_clicked_4946142083435068726.png"
-      
-      
-    />
-
-    </picture>
-</figure>
-</p>
-<p><figure>
-  <picture>
-
-    
-      
-        
-        
-        
-        
-        
-        
-    <img
-      loading="lazy"
-      decoding="async"
-      alt=""
-      
-        class="image_figure image_external image_processed"
-        width="640"
-        height="489"
-        src="/images/sharing_state_child_clicked_4946142083435068726.png"
-      
-      
-    />
-
-    </picture>
-</figure>
-</p>
-<pre><code>import { useState } from 'react';
-
-function Panel({ title, children }) {
-const [isActive, setIsActive] = useState(false);
-return (
-    &lt;section className=&quot;panel&quot;&gt;
-    &lt;h3&gt;{title}&lt;/h3&gt;
-    {isActive ? (
-        &lt;p&gt;{children}&lt;/p&gt;
-    ) : (
-        &lt;button onClick={() =&gt; setIsActive(true)}&gt;
-        Show
-        &lt;/button&gt;
-    )}
-    &lt;/section&gt;
-);
-}
-
-export default function Accordion() {
-return (
-    &lt;&gt;
-    &lt;h2&gt;Almaty, Kazakhstan&lt;/h2&gt;
-    
-    &lt;Panel title=&quot;About&quot;&gt;
-        With a population of about 2 million, Almaty is Kazakhstan's largest city. From 1929 to 1997, it was its capital city.
-    &lt;/Panel&gt;
-    
-    &lt;Panel title=&quot;Etymology&quot;&gt;
-        The name comes from &lt;span lang=&quot;kk-KZ&quot;&gt;алма&lt;/span&gt;, the Kazakh word for &quot;apple&quot; and is often translated as &quot;full of apples&quot;. In fact, the region surrounding Almaty is thought to be the ancestral home of the apple, and the wild &lt;i lang=&quot;la&quot;&gt;Malus sieversii&lt;/i&gt; is considered a likely candidate for the ancestor of the modern domestic apple.
-    &lt;/Panel&gt;
-    &lt;/&gt;
-);
-}
-</code></pre>
-<p>Nhưng bây giờ hãy nói rằng bạn muốn thay đổi nó, chỉ mỗi panel được mở rộng trong 1 khoảng thời gian. Với kiểu thiết kế như trên thì việc mở rộng cái thứ 2 sẽ mở rộng luôn cái thứ nhất</p>
-<p>để điều phối 2 panel này, bạn cần lift their state up hay còn gọi là nâng state lên parent component qua 3 bước sau:</p>
-<ul>
-<li>
-<p>xóa staet từ component con</p>
-</li>
-<li>
-<p>pass hardcode từ component cha</p>
-</li>
-<li>
-<p>thêm state vào component cha và pass nó xuống với các event</p>
-</li>
-</ul>
-<p>điều này sẽ cho phép component Accordion tương đương với cả 2 component Panel và chỉ mở rộng trong 1 khoảng thời gian</p>
-<p><figure>
-  <picture>
-
-    
-      
-        
-        
-        
-        
-        
-        
-    <img
-      loading="lazy"
-      decoding="async"
-      alt=""
-      
-        class="image_figure image_external image_processed"
-        width="640"
-        height="506"
-        src="/images/sharing_state_parent_7676589694185521575.png"
-      
-      
-    />
-
-    </picture>
-</figure>
-</p>
-<p><figure>
-  <picture>
-
-    
-      
-        
-        
-        
-        
-        
-        
-    <img
-      loading="lazy"
-      decoding="async"
-      alt=""
-      
-        class="image_figure image_external image_processed"
-        width="640"
-        height="473"
-        src="/images/sharing_state_parent_clicked_11398135780541070860.png"
-      
-      
-    />
-
-    </picture>
-</figure>
-</p>
-<p><a href="https://codesandbox.io/s/lifting-state-up-278o4r?file=/src/App.js">&quot;Vô link này xem ví dụ giải thích mệt quá, tra google đọc docs đi cho lẹ&quot;</a></p>
-<p>Một vài sự thật thú vị về mỗi state</p>
-<p><a href="https://beta.reactjs.org/learn/sharing-state-between-components">&quot;Dịch hơi chán đọc kĩ link sau&quot;</a></p>
-<p>keyword <strong>single source of truth</strong></p>
+    <div class="post_body"><p><strong>the JavaScript Engine </strong>is a program whose main task is to read and execute JavaScript code. The way that this program works is:</p>
+<ol>
+<li>read the code</li>
+<li>translate it into machine code</li>
+<li>run that machine code</li>
+</ol>
+<br/>
+All modern browser come with their own version of the JS Engine but the most popular one is Google's V8 Engine.&nbsp;<br />Here is a list of different JavaScript Engines for each major internet browser:
+<ol>
+<li><strong>V8</strong>: open source JavaScript Engine developed by Google for Chrome</li>
+<li><strong>SpiderMonkey</strong>: the JavaScript Engine powering Mozilla FireFox</li>
+<li><strong>JavaScriptCore</strong>: open source JavaScript Engine developed by Apple for Safari</li>
+<li><strong>Rhino</strong>: open source JavaScript Engine managed by Mozilla foundation</li>
+<li><strong>Chakra</strong>: a JavaScript Engnine for Microsoft Edge</li>
+<li><strong>JerryScript</strong>: a JavaScript engine for the IOT</li>
+</ol>
+<p><strong>A JavaScript engine will always have: Call stack and Memory Heap<br /><img src="https://iamsjy17.github.io/assets/img/howtoworksjs/eventloop.png" width="446" height="280" /><br />The Call Stack</strong>: keep track of where we are in the code. It uses first in and last out and stacks for example functions. Javascript code gets executed using something called as <strong>execution context</strong><br /><strong>The Memory Heap</strong>: Heap is an unstructured memory pool which stores all the objects that a JavaScript application needs.  Where memory is allocated, used, and removed<br /><strong><br />How does the JS Engnie work ?<br /></strong>The JavaScript Engine has 6 main components that work together as a whole. <br />1. <strong>Parser</strong>: the source code is sent to a decoder which decodes the contents inside HTML script tag into tokens that are sent to the parser. The engine tries to avoid parsing code that's not necessary right away in order to save time<br />2. <strong>AST</strong>: the parser creates nodes based on the tokens it receives. With these nodes, it creates an Abstract Syntax Tree (AST)<br />3. <strong>Interpreter</strong>: it generates byte code, by reading the code line by line Once the byte code is generated, the AST is deleted and memory space is cleared up.<br />4. <strong>Profiler</strong>: Monitors and watches code to optimize it.<br />5. <strong>Compiler</strong>: works ahead of time and creates a translation of the code that has been written and complies it down to a lower leverl language that machines can read<br />6. <strong>Optimized code</strong>: code needs to be optimized to be run quicker. <br /><br /><img src="https://storage.googleapis.com/algodailyrandomassets/curriculum/frontend/js-engine-runtime/Engine.png" width="772" height="245" /><br /><br /><br /></p>
 
     </div>
 

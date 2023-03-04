@@ -8,6 +8,24 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 04 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://vuduynhien.com/series/javascript/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Javascript engine là gì ?</title>
+      <link>https://vuduynhien.com/post/javascript/posts/js-engine/</link>
+      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://vuduynhien.com/post/javascript/posts/js-engine/</guid>
+      <description>
+        
+          
+            the JavaScript Engine is a program whose main task is to read and execute JavaScript code. The way that this program works is:
+ read the code translate it into machine code run that machine code   All modern browser come with their own version of the JS Engine but the most popular one is Google&#39;s V8 Engine.&amp;nbsp;
+Here is a list of different JavaScript Engines for each major internet browser:  V8: open source JavaScript Engine developed by Google for Chrome SpiderMonkey: the JavaScript Engine powering Mozilla FireFox JavaScriptCore: open source JavaScript Engine developed by Apple for Safari Rhino: open source JavaScript Engine managed by Mozilla foundation Chakra: a JavaScript Engnine for Microsoft Edge JerryScript: a JavaScript engine for the IOT  A JavaScript engine will always have: Call stack and Memory Heap
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
       <title>Javascript runtime là gì ?</title>
       <link>https://vuduynhien.com/post/javascript/posts/js-runtime-la-gi/</link>
       <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
