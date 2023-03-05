@@ -6,7 +6,26 @@
     <description>Recent content in javascript on Vu Duy Nhien Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://vuduynhien.com/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://vuduynhien.com/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>mircotask queue là gì ?</title>
+      <link>https://vuduynhien.com/post/javascript/posts/micro-task-queue/</link>
+      <pubDate>Sun, 05 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://vuduynhien.com/post/javascript/posts/micro-task-queue/</guid>
+      <description>
+        
+          
+            A mircrotask queue is a queue of tasks that are executed after the current task. The microtas queue is handled by the JavaScript engine before it moves on to the next task in the callback queue
+console.log(&#39;start&#39;);
+setTimeout(function() { console.log(&#39;setTimeout&#39;); }, 0); Promise.resolve().then(function() { console.log(&#39;promise resolve&#39;); }); console.log(&#39;end&#39;);
+setTimeout callback is added to the callback queue. The Promise.resolve is added to the microtask queue. The JS engine will first execute all tasks in the microtask queue before moving on to the call queue
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>Javascript engine là gì ?</title>
       <link>https://vuduynhien.com/post/javascript/posts/js-engine/</link>

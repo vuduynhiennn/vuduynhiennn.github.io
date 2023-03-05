@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://vuduynhien.com/</loc>
-    <lastmod>2023-03-04T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="kt"
@@ -16,22 +16,19 @@
                 />
   </url><url>
     <loc>https://vuduynhien.com/post/javascript/</loc>
-    <lastmod>2023-03-04T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vuduynhien.com/tags/javascript/</loc>
-    <lastmod>2023-03-04T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vuduynhien.com/series/javascript/</loc>
-    <lastmod>2023-03-04T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://vuduynhien.com/post/javascript/posts/js-engine/</loc>
-    <lastmod>2023-03-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vuduynhien.com/post/javascript/posts/js-runtime-la-gi/</loc>
-    <lastmod>2023-03-04T00:00:00+00:00</lastmod>
+    <loc>https://vuduynhien.com/post/javascript/posts/micro-task-queue/</loc>
+    <lastmod>2023-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vuduynhien.com/post/</loc>
-    <lastmod>2023-03-04T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="kt"
@@ -44,7 +41,7 @@
                 />
   </url><url>
     <loc>https://vuduynhien.com/series/</loc>
-    <lastmod>2023-03-04T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="kt"
@@ -57,7 +54,7 @@
                 />
   </url><url>
     <loc>https://vuduynhien.com/tags/</loc>
-    <lastmod>2023-03-04T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="kt"
@@ -68,6 +65,12 @@
                 hreflang="en"
                 href="https://vuduynhien.com/tags/"
                 />
+  </url><url>
+    <loc>https://vuduynhien.com/post/javascript/posts/js-engine/</loc>
+    <lastmod>2023-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vuduynhien.com/post/javascript/posts/js-runtime-la-gi/</loc>
+    <lastmod>2023-03-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vuduynhien.com/post/javascript/posts/web-api/</loc>
     <lastmod>2023-03-04T00:00:00+00:00</lastmod>
