@@ -6,7 +6,23 @@
     <description>Recent content on Vu Duy Nhien Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://vuduynhien.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://vuduynhien.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cùng tìm hiểu về JSON Web Token</title>
+      <link>https://vuduynhien.com/post/backend/posts/jwt-la-gi/</link>
+      <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://vuduynhien.com/post/backend/posts/jwt-la-gi/</guid>
+      <description>
+        
+          
+            JWT (JSON Web Token) là một bộ tiêu chuẩn mở (RFC 7519) nhỏ gọn và có tính đóng gói, được sử dụng cho việc truyền thông tin (các thông tin dưới dạng JSON object ) một cách an toàn giữa các bên. Thông tin sẽ được xác minh và có tính tin cậy bởi vì nó có chứa chữ kí kĩ thuật sử dụng một secret (với thuật toán HMAC ) hoặc một cặp public/private key dùng RSA hoặc ECDSA.
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>mircotask queue là gì ?</title>
       <link>https://vuduynhien.com/post/javascript/posts/micro-task-queue/</link>
@@ -115,31 +131,15 @@ API are constructs made avaible in programming languages to allow developers to 
     
     <item>
       <title>Logical Operators và Bitwise Logical Operators là gì ? chúng khác như thế nào ? </title>
-      <link>https://vuduynhien.com/post/pbasic/cbs/logicalexpression/</link>
+      <link>https://vuduynhien.com/post/pbasic/cbs/posts/logicalexpression/</link>
       <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://vuduynhien.com/post/pbasic/cbs/logicalexpression/</guid>
+      <guid>https://vuduynhien.com/post/pbasic/cbs/posts/logicalexpression/</guid>
       <description>
         
           
             cùng mình tìm hiểu về 2 khái niệm này nha.
 1. Logical Operators Hay còn được gọi với cái tên toán tử logic. Lưu ý: trong C hay hầu hết các ngôn ngữ lập trình khác thì bất kể biểu thức nào có kết quả khác 0 sẽ được convert thành true, ngược lại biểu thức nào có kết quả là 0 sẽ được convert thành false. Đọc nhẩm câu này rồi hãng đọc xuống phía dưới nhé.
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>NOTE</title>
-      <link>https://vuduynhien.com/post/pbasic/cbs/note/</link>
-      <pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://vuduynhien.com/post/pbasic/cbs/note/</guid>
-      <description>
-        
-          
-            để ý đoạn nói về socket ha file description cả cái này nữa
           
           
         

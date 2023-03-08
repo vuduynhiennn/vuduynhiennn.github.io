@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>authorization on Vu Duy Nhien Blog</title>
+    <link>https://vuduynhien.com/tags/authorization/</link>
+    <description>Recent content in authorization on Vu Duy Nhien Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://vuduynhien.com/tags/authorization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cùng tìm hiểu về JSON Web Token</title>
+      <link>https://vuduynhien.com/post/backend/posts/jwt-la-gi/</link>
+      <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://vuduynhien.com/post/backend/posts/jwt-la-gi/</guid>
+      <description>
+        
+          
+            JWT (JSON Web Token) là một bộ tiêu chuẩn mở (RFC 7519) nhỏ gọn và có tính đóng gói, được sử dụng cho việc truyền thông tin (các thông tin dưới dạng JSON object ) một cách an toàn giữa các bên. Thông tin sẽ được xác minh và có tính tin cậy bởi vì nó có chứa chữ kí kĩ thuật sử dụng một secret (với thuật toán HMAC ) hoặc một cặp public/private key dùng RSA hoặc ECDSA.
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

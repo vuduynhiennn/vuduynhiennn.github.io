@@ -8,31 +8,15 @@
     <language>en-us</language><atom:link href="https://vuduynhien.com/post/pbasic/cbs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Logical Operators và Bitwise Logical Operators là gì ? chúng khác như thế nào ? </title>
-      <link>https://vuduynhien.com/post/pbasic/cbs/logicalexpression/</link>
+      <link>https://vuduynhien.com/post/pbasic/cbs/posts/logicalexpression/</link>
       <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://vuduynhien.com/post/pbasic/cbs/logicalexpression/</guid>
+      <guid>https://vuduynhien.com/post/pbasic/cbs/posts/logicalexpression/</guid>
       <description>
         
           
             cùng mình tìm hiểu về 2 khái niệm này nha.
 1. Logical Operators Hay còn được gọi với cái tên toán tử logic. Lưu ý: trong C hay hầu hết các ngôn ngữ lập trình khác thì bất kể biểu thức nào có kết quả khác 0 sẽ được convert thành true, ngược lại biểu thức nào có kết quả là 0 sẽ được convert thành false. Đọc nhẩm câu này rồi hãng đọc xuống phía dưới nhé.
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>NOTE</title>
-      <link>https://vuduynhien.com/post/pbasic/cbs/note/</link>
-      <pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://vuduynhien.com/post/pbasic/cbs/note/</guid>
-      <description>
-        
-          
-            để ý đoạn nói về socket ha file description cả cái này nữa
           
           
         
