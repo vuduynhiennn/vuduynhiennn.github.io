@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Vu Duy Nhien Blog</title>
-    <link>https://vuduynhien.com/post/backend/</link>
-    <description>Recent content on Vu Duy Nhien Blog</description>
+    <title>database on Vu Duy Nhien Blog</title>
+    <link>https://vuduynhien.com/tags/database/</link>
+    <description>Recent content in database on Vu Duy Nhien Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://vuduynhien.com/post/backend/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://vuduynhien.com/tags/database/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hướng dẫn về redis</title>
       <link>https://vuduynhien.com/post/backend/posts/huong-dan-ve-redis/</link>
@@ -18,22 +18,6 @@
           
             Redis command line interfce (redis-cli) hay c&amp;ograve;n gọi l&amp;agrave; giao diện d&amp;ograve;ng lệnh của redis l&amp;agrave; một chương tr&amp;igrave;nh dạng terminal được d&amp;ugrave;ng để gửi c&amp;aacute;c lệnh l&amp;ecirc;n server redis v&amp;agrave; server redis sẽ phản hồi lại c&amp;aacute;c lệnh do người d&amp;ugrave;ng gửi l&amp;ecirc;n. Redis-cli Bao gồm 2 chế độ ch&amp;iacute;nh:
  tương t&amp;aacute;c Read Evel Print Loop (REPL), REPL l&amp;agrave; nơi người d&amp;ugrave;ng nhập c&amp;aacute;c lệnh v&amp;agrave; nhận về c&amp;aacute;c phản hồi.
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>cùng tìm hiểu về JSON Web Token</title>
-      <link>https://vuduynhien.com/post/backend/posts/jwt-la-gi/</link>
-      <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://vuduynhien.com/post/backend/posts/jwt-la-gi/</guid>
-      <description>
-        
-          
-            JWT (JSON Web Token) là một bộ tiêu chuẩn mở (RFC 7519) nhỏ gọn và có tính đóng gói, được sử dụng cho việc truyền thông tin (các thông tin dưới dạng JSON object ) một cách an toàn giữa các bên. Thông tin sẽ được xác minh và có tính tin cậy bởi vì nó có chứa chữ kí kĩ thuật sử dụng một secret (với thuật toán HMAC ) hoặc một cặp public/private key dùng RSA hoặc ECDSA.
           
           
         

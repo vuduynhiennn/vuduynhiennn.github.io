@@ -6,7 +6,24 @@
     <description>Recent content on Vu Duy Nhien Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://vuduynhien.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://vuduynhien.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hướng dẫn về redis</title>
+      <link>https://vuduynhien.com/post/backend/posts/huong-dan-ve-redis/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://vuduynhien.com/post/backend/posts/huong-dan-ve-redis/</guid>
+      <description>
+        
+          
+            Redis command line interfce (redis-cli) hay c&amp;ograve;n gọi l&amp;agrave; giao diện d&amp;ograve;ng lệnh của redis l&amp;agrave; một chương tr&amp;igrave;nh dạng terminal được d&amp;ugrave;ng để gửi c&amp;aacute;c lệnh l&amp;ecirc;n server redis v&amp;agrave; server redis sẽ phản hồi lại c&amp;aacute;c lệnh do người d&amp;ugrave;ng gửi l&amp;ecirc;n. Redis-cli Bao gồm 2 chế độ ch&amp;iacute;nh:
+ tương t&amp;aacute;c Read Evel Print Loop (REPL), REPL l&amp;agrave; nơi người d&amp;ugrave;ng nhập c&amp;aacute;c lệnh v&amp;agrave; nhận về c&amp;aacute;c phản hồi.
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>cùng tìm hiểu về JSON Web Token</title>
       <link>https://vuduynhien.com/post/backend/posts/jwt-la-gi/</link>
