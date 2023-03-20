@@ -6,7 +6,24 @@
     <description>Recent content on Vu Duy Nhien Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://vuduynhien.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://vuduynhien.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>handlebar có ngu không, nếu không ngu vậy khôn ở chỗ nào ?</title>
+      <link>https://vuduynhien.com/post/backend/posts/handlebars/</link>
+      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://vuduynhien.com/post/backend/posts/handlebars/</guid>
+      <description>
+        
+          
+            HANDLEBAR LÀ GÌ ?  handlebars là một ngôn ngữ template đơn giản dễ dùng. nó sử dụng một template và một object đầu vào để generate ra HTML hoặc các loại định dạng text khác. Handlebars template trông giống như text bình thường nhưng có thể nhúng các giá trị vào thông qua biểu thức. như ví dụ sau: {{firstname}} {{lastname}}
+ một biểu thức handlebar trông giống như này {{  nội dung  }} khi một template được biên dịch, những biểu thức này sẽ được thay thế bằng các giá trị từ object đầu vào.
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>Hướng dẫn về redis</title>
       <link>https://vuduynhien.com/post/backend/posts/huong-dan-ve-redis/</link>
